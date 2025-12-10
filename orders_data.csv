@@ -1,0 +1,13 @@
+﻿Date,Product_Category,Price,Discount,Marketing_Active,Orders
+01-01-2025,Electronics,1200,10,1,130
+02-01-2025,Electronics,1150,15,1,140
+03-01-2025,Clothing,800,20,0,95
+04-01-2025,Clothing,820,10,1,110
+05-01-2025,Grocery,200,5,0,180
+06-01-2025,Grocery,220,10,1,210
+07-01-2025,Home,600,15,0,130
+08-01-2025,Home,590,10,1,145
+09-01-2025,Electronics,1100,20,0,160
+10-01-2025,Clothing,850,5,1,120
+11-01-2025,Grocery,250,10,1,230
+12-01-2025,Home,620,15,0,150
